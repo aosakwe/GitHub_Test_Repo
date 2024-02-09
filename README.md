@@ -2,4 +2,6 @@
 
 # GitHub Workshop Practice Repo
 
-This repository includes example text files to demonstrate how to use git and GitHub.
+This repository includes example text files and png files to demonstrate 
+how to use git and GitHub.
+
